@@ -29,3 +29,12 @@ Each lab folder contains:
 - Network diagrams and screenshots
 
 Reviewers can open any lab folder and directly access the lab documentation.
+
+## How to Review These Labs
+Each lab folder contains:
+- A PDF with objectives, topology, and configurations
+- Cisco Packet Tracer (.pkt) files where applicable
+- Network diagrams and screenshots
+
+Reviewers can open any lab folder and directly access the lab documentation.
+
