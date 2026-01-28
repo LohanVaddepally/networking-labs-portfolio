@@ -1,5 +1,7 @@
-Networking Labs Portfolio
+#Networking Labs Portfolio
+
 Hands-on networking labs demonstrating routing, switching, VLANs, OSPF, ACLs, and network troubleshooting using physical lab equipment and Cisco Packet Tracer.
+
 
 This repository contains hands-on networking labs and assignments completed as part of my college networking coursework. These labs were performed using both Cisco Packet Tracer and physical networking equipment in a lab environment.
 
