@@ -20,4 +20,4 @@ This repository contains hands-on networking labs and assignments completed as p
 - TCP/IP, VLANs, OSPF, ACLs, STP
 - Network diagrams and lab documentation
 
-Each folder in this repository represents an individual lab or assignment and includes configuration files, diagrams, and a short explanation of the work performed.
+Each folder in this repository represents an individual lab and assignment, and includes configuration files, diagrams, and a short explanation of the work performed.
