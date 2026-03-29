@@ -5,7 +5,7 @@ Hands-on networking labs demonstrating routing, switching, VLANs, OSPF, ACLs, an
 This repository contains hands-on networking labs and assignments completed as part of my college networking coursework. These labs were performed using both Cisco Packet Tracer and physical networking equipment in a lab environment.
 
 ## Skills Demonstrated
-- Routing and Switching fundamentals
+- Routing and Switching Fundamentals
 - VLAN configuration and inter-VLAN routing
 - Static and dynamic routing (OSPFv2)
 - DHCP configuration
@@ -25,7 +25,7 @@ Each folder in this repository represents an individual lab and assignment, and 
 ## How to Review These Labs
 Each lab folder contains:
 - A PDF with objectives, topology, and configurations
-- Cisco Packet Tracer (.pkt) files where applicable
+- Cisco Packet Tracer (.pkt) files, where applicable
 - Network diagrams and screenshots
 
 Reviewers can open any lab folder and directly access the lab documentation.
@@ -33,7 +33,7 @@ Reviewers can open any lab folder and directly access the lab documentation.
 ## How to Review These Labs
 Each lab folder contains:
 - A PDF with objectives, topology, and configurations
-- Cisco Packet Tracer (.pkt) files where applicable
+- Cisco Packet Tracer (.pkt) files, where applicable
 - Network diagrams and screenshots
 
 Reviewers can open any lab folder and directly access the lab documentation.
